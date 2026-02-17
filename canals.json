@@ -104,11 +104,9 @@
   "url": "https://chromecast.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_cenc/HBOHD.mpd",
   "drm": "com.widevine.alpha",
   "key": "5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28"
-},
-  {
-  "nombre": "HBO HD",
-  "url": "https://chromecast.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_cenc/HBOHD.mpd",
-  "drm": "com.widevine.alpha",
-  "key": "5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28"
+},{
+    "nombre": "TyC Sports",
+    "url": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_cenc/TyCSport.mpd",
+    "key": "2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b"
 }
 ]
