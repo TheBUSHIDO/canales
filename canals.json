@@ -98,5 +98,17 @@
   {
     "nombre": "Canal de la Ciudad",
     "url": "https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true"
-  }
+  },
+  {
+  "nombre": "HBO HD",
+  "url": "https://chromecast.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_cenc/HBOHD.mpd",
+  "drm": "com.widevine.alpha",
+  "key": "5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28"
+},
+  {
+  "nombre": "HBO HD",
+  "url": "https://chromecast.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_cenc/HBOHD.mpd",
+  "drm": "com.widevine.alpha",
+  "key": "5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28"
+}
 ]
