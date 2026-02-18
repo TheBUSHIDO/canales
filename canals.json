@@ -3,7 +3,7 @@
     "nombre": "DSPORTS 1 🇦🇷",
     "url": "http://201.230.121.85:8000/play/a0yv/index.m3u8",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
@@ -11,7 +11,7 @@
     "nombre": "WIN PLUS",
     "url": "http://104.238.222.251:9090/278802_.m3u8",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
@@ -19,7 +19,7 @@
     "nombre": "TELEFE 🇦🇷",
     "url": "http://200.115.120.1:8000/play/ca016/index.m3u8",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
@@ -27,7 +27,7 @@
     "nombre": "DSPORTS 1 🇦🇷 (Alt)",
     "url": "http://190.117.20.37:8000/play/a08d/index.m3u8",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
@@ -35,7 +35,7 @@
     "nombre": "WIN + 🇨🇴",
     "url": "http://104.238.205.58:9090/280080_.m3u8",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
@@ -43,7 +43,7 @@
     "nombre": "Win Sports + 🇨🇴",
     "url": "http://live.btv.mx:2424/stream/280080/smAVz_uhytj5REM-4pYNZbkrcB2",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
@@ -51,7 +51,7 @@
     "nombre": "DSPORTS 1 🇦🇷 (Alt 2)",
     "url": "http://190.117.20.38:8000/play/a08d/index.m3u8",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
@@ -59,7 +59,7 @@
     "nombre": "Liga1MAX.HD2 🇵🇪",
     "url": "http://181.224.226.128:5000/play/a001/index.m3u8",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
@@ -131,7 +131,7 @@
     "nombre": "TyC.SportHD4 🇦🇷",
     "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
@@ -147,7 +147,7 @@
     "nombre": "Argentinisima Ar",
     "url": "https://stream1.sersat.com/hls/argentinisima.m3u8",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
@@ -179,7 +179,7 @@
     "nombre": "CRONICA TV.ar",
     "url": "https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
@@ -187,7 +187,7 @@
     "nombre": "26 TV.ar",
     "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
@@ -195,7 +195,7 @@
     "nombre": "Canal de la Ciudad",
     "url": "https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true",
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+      "User-Agent": "",
       "Referer": ""
     }
   },
