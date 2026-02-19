@@ -3,14 +3,7 @@
     "nombre": "DSPORTS 1 (Canal Directo)",
     "url": "http://201.230.121.85:8000/play/a0yv/index.m3u8",
     "motor": "video",
-    "modo": "direct",
-    "ua": "",
-    "ref": "",
-    "origin": "",
-    "drm_key": "",
-    "type_key": "clearkey",
-    "lang": "es",
-    "drm_id": ""
+    "modo": "direct"
   },
   {
     "nombre": "AMERICA TV (DRM + Proxy + ID)",
@@ -30,12 +23,11 @@
     "url": "http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi",
     "motor": "web",
     "modo": "direct",
-    "ua": "",
-    "ref": "",
-    "origin": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "http://vps-5182765-x.dattaweb.com/",
+    "origin": "http://vps-5182765-x.dattaweb.com/",
     "drm_key": "3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc",
     "type_key": "clearkey",
-    "lang": "es",
-    "drm_id": ""
+    "lang": "es"
   }
 ]
