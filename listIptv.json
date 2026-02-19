@@ -1,24 +1,41 @@
 [
   {
-    "nombre": "Canal 26 AR",
-    "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8",
-    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36",
-    "ref": "https://www.telecentro.net.ar/"
+    "nombre": "DSPORTS 1 (Canal Directo)",
+    "url": "http://201.230.121.85:8000/play/a0yv/index.m3u8",
+    "motor": "video",
+    "modo": "direct",
+    "ua": "",
+    "ref": "",
+    "origin": "",
+    "drm_key": "",
+    "type_key": "clearkey",
+    "lang": "es",
+    "drm_id": ""
   },
   {
-    "nombre": "ESPN Premium-HD7",
-    "url": "http://38.199.5.160:8000/play/a05g/index.m3u8",
-    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36",
-    "ref": "http://38.199.5.160:8000/play/a05g/index.m3u8"
+    "nombre": "AMERICA TV (DRM + Proxy + ID)",
+    "url": "http://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
+    "motor": "web",
+    "modo": "proxy",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "https://cvattv.com.ar/",
+    "origin": "https://cvattv.com.ar/",
+    "drm_key": "8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45",
+    "type_key": "clearkey",
+    "lang": "es",
+    "drm_id": "3668069591"
   },
   {
-    "nombre": "TNT SportPremium HD1",
-    "url": "http://38.199.6.1:17001/play/a036/index.m3u8",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-    "ref": ""
-  },
-  {
-    "nombre": "DSPORTS 1",
-    "url": "http://201.230.121.85:8000/play/a0yv/index.m3u8"
+    "nombre": "ESPN Premium (DRM ClearKey)",
+    "url": "http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi",
+    "motor": "web",
+    "modo": "direct",
+    "ua": "",
+    "ref": "",
+    "origin": "",
+    "drm_key": "3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc",
+    "type_key": "clearkey",
+    "lang": "es",
+    "drm_id": ""
   }
 ]
