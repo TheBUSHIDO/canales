@@ -3,7 +3,19 @@
     "nombre": "Canal 26 AR",
     "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8",
     "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36",
-    "ref": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+    "ref": ""
+  },
+  {
+    "nombre": "ESPN.Premium-HD7",
+    "url": "http://38.199.5.160:8000/play/a05g/index.m3u8",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "ref": ""
+  },
+  {
+    "nombre": "TNTSportPremium.HD1",
+    "url": "http://38.199.6.1:17001/play/a036/index.m3u8",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "ref": ""
   },
   {
     "nombre": "DSPORTS 1",
