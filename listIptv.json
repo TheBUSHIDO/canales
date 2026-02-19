@@ -3,12 +3,12 @@
     "nombre": "Canal 26 AR",
     "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8",
     "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36",
-    "ref": "https://stream-gtlc.telecentro.net.ar/"
+    "ref": "https://www.telecentro.net.ar/"
   },
   {
     "nombre": "ESPN Premium-HD7",
     "url": "http://38.199.5.160:8000/play/a05g/index.m3u8",
-    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36",
+    "ua": "",
     "ref": ""
   },
   {
