@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <title>Panel IPTV LAB - Gestión de Canales</title>
+    <meta name="description" content="Panel de administración privado para gestión de canales IPTV." />
+    <meta name="author" content="TheBUSHIDO" />
+    <meta name="robots" content="noindex, nofollow" /> <meta property="og:title" content="IPTV LAB Admin" />
+    <meta property="og:description" content="Gestión remota de señales IPTV." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://cdn-icons-png.flaticon.com/512/716/716429.png" />
+    <link rel="icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/716/716429.png" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet" />
+    <style>
+      body {
+        background: #f4f6f9;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        user-select: none; /* Evita selección de texto */
+      }
+      .navbar {
+        background: #1f2d3d;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+      .container-box {
+        background: #fff;
+        padding: 25px;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+      }
+      .table thead {
+        background: #2c3e50;
+        color: #fff;
+      }
+      .btn-primary {
+        background: #2c3e50;
+        border: none;
+      }
+      .btn-primary:hover {
+        background: #34495e;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar navbar-dark mb-4">
+      <div class="container">
+        <span class="navbar-brand mb-0 h1">
+          <i class="bi bi-tv"></i> IPTV LAB Admin
+        </span>
+        <div class="d-flex">
+          <input
+            type="password"
+            id="ghToken"
+            class="form-control form-control-sm me-2"
+            placeholder="GitHub Token"
+          />
+          <button
+            class="btn btn-outline-light btn-sm"
+            onclick="cargarCanales()"
+          >
+            Cargar
+          </button>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container container-box">
+      <div class="d-flex justify-content-between align-items-center mb-4">
+        <h4>Lista de Canales Remota</h4>
+        <button class="btn btn-primary" onclick="abrirModalNuevo()">
+          <i class="bi bi-plus-circle"></i>
+        </button>
+      </div>
+
+      <div class="table-responsive">
+        <table class="table table-hover align-middle">
+          <thead>
+            <tr>
+              <th>Nombre</th>
+              <th>Categoría</th>
+              <th>URL (Señal)</th>
+              <th class="text-center">Acciones</th>
+            </tr>
+          </thead>
+          <tbody id="tablaCuerpo"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="modal fade" id="modalCanal" tabindex="-1">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 id="modalTitulo">Agregar Canal</h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <form id="formCanal">
+              <input type="hidden" id="editIndex" />
+              <div class="mb-3">
+                <label class="form-label">Nombre del Canal</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="nombre"
+                  required
+                  placeholder="Ej: TyC Sports HD"
+                />
+              </div>
+              <div class="mb-3">
+                <label class="form-label">URL M3U8 / MP4</label>
+                <input
+                  type="url"
+                  class="form-control"
+                  id="url"
+                  required
+                  placeholder="https://dominio.com/lista.m3u8"
+                />
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Categoría</label>
+                <select class="form-select" id="categoria">
+                  <option value="Otros">Otros</option>
+                  <option value="Deportes">Deportes</option>
+                  <option value="Noticias">Noticias</option>
+                  <option value="Peliculas">Películas</option>
+                  <option value="Series">Series</option>
+                  <option value="Infantiles">Infantiles</option>
+                  <option value="Documentales">Documentales</option>
+                </select>
+              </div>
+              <hr />
+              <p class="text-muted small">
+                Headers Opcionales (Solo si el canal lo requiere)
+              </p>
+              <div class="row g-2 mb-3">
+                <div class="col-6">
+                  <input
+                    type="text"
+                    id="ua"
+                    class="form-control form-control-sm"
+                    placeholder="User-Agent"
+                  />
+                </div>
+                <div class="col-6">
+                  <input
+                    type="text"
+                    id="ref"
+                    class="form-control form-control-sm"
+                    placeholder="Referer"
+                  />
+                </div>
+                <div class="col-12 mt-2">
+                  <input
+                    type="text"
+                    id="origin"
+                    class="form-control form-control-sm"
+                    placeholder="Origin"
+                  />
+                </div>
+              </div>
+              <button
+                type="submit"
+                class="btn btn-primary w-100"
+                id="btnGuardar"
+              >
+                Guardar Cambios
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="panel.js"></script>
+
+    <script>
+      // Bloquear click derecho
+      document.addEventListener('contextmenu', event => event.preventDefault());
+
+      // Bloquear teclas de desarrollador
+      document.onkeydown = function(e) {
+        // F12
+        if(e.keyCode == 123) return false;
+        // Ctrl+Shift+I (Inspector)
+        if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) return false;
+        // Ctrl+Shift+J (Consola)
+        if(e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) return false;
+        // Ctrl+U (Ver código fuente)
+        if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) return false;
+        // Ctrl+Shift+C (Seleccionar elemento)
+        if(e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)) return false;
+      };
+
+      // Truco del debugger: Si abren la consola, la ejecución se pausa infinitamente
+      (function() {
+        setInterval(function() {
+          debugger;
+        }, 100);
+      })();
+    </script>
+  </body>
+</html>
