@@ -2,7 +2,10 @@
   {
     "nombre": "DSPORTS 1 (Canal Directo)",
     "url": "http://201.230.121.85:8000/play/a0yv/index.m3u8",
-    "categoria": "Deportes"
+    "categoria": "Peliculas",
+    "ua": "",
+    "ref": "",
+    "origin": ""
   },
   {
     "nombre": "WIN PLUS",
