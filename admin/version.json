@@ -1,5 +1,5 @@
 {
-  "versionCode": 2,
+  "versionCode": 1.0.0,
   "apkUrl": "https://github.com/TuUsuario/TuRepo/releases/download/v2/app-release.apk",
-  "notas": "Mejoras en el control remoto y cabecera."
+  "notas": "Corrección de certificados SSL" y "Mejora de interfaz para Smart TV"
 }
