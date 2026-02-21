@@ -1,1 +1,5 @@
-
+{
+  "versionCode": 2,
+  "apkUrl": "https://github.com/TuUsuario/TuRepo/releases/download/v2/app-release.apk",
+  "notas": "Mejoras en el control remoto y cabecera."
+}
