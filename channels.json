@@ -1,1 +1,29 @@
-hola
+[
+  {
+    "nombre": "Canal 13 Chile",
+    "url": "https://cdn-live.mundogo.cl/canal13/canal13.mpd",
+    "kid": "573759b8886f5da992a3cccebdaeb21d",
+    "key": "37208a97c7f01edf523ed7575d5ba9f4"
+  },
+  {
+    "nombre": "Azteca 7 HD",
+    "url": "https://live-atv-cdn.izzigo.tv/4/out/u/dash/AZTECA-7-HD/default.mpd",
+    "kid": "c15a10921bed75a3ec5385e0ecdb6499",
+    "key": "4e44df62547a1544a4623418918658d0"
+  },
+  {
+    "nombre": "Canal sin DRM",
+    "url": "https://dominio.com/video/playlist.mpd",
+    "kid": null,
+    "key": null
+  },
+  {
+    "nombre": "Mundo Go Multikey",
+    "url": "https://cdn-live.mundogo.cl/canal13/canal13.mpd",
+    "keys": {
+      "573759b8886f5da992a3cccebdaeb21d": "37208a97c7f01edf523ed7575d5ba9f4",
+      "5affd912a70850469baee6ed21035d1c": "d6812382c31b1feebc524c75ca2c99ed",
+      "fb0179667bd652beba3c4b6bc948d847": "0c23059f2572348bdcf8a4174dcb6ba8"
+    }
+  }
+]
