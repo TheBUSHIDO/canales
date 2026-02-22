@@ -1,19 +1,19 @@
 [
   {
-    "nombre": "Canal 13 Chile",
-    "url": "https://cdn-live.mundogo.cl/canal13/canal13.mpd",
+    "nombre": "Telefe",
+    "url": "http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
     "kid": "573759b8886f5da992a3cccebdaeb21d",
     "key": "37208a97c7f01edf523ed7575d5ba9f4"
   },
   {
-    "nombre": "Azteca 7 HD",
-    "url": "https://live-atv-cdn.izzigo.tv/4/out/u/dash/AZTECA-7-HD/default.mpd",
-    "kid": "c15a10921bed75a3ec5385e0ecdb6499",
-    "key": "4e44df62547a1544a4623418918658d0"
+    "nombre": "Cinemax HD",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd",
+    "kid": "977928a92b82ba3781741a6470f8f45b",
+    "key": "51f4e62827c128f7210b79a11587661a"
   },
   {
     "nombre": "Canal sin DRM",
-    "url": "https://dominio.com/video/playlist.mpd",
+    "url": "http://201.230.121.85:8000/play/a0yv/index.m3u8",
     "kid": null,
     "key": null
   },
