@@ -1,33 +1,41 @@
 [
   {
     "nombre": "Telefe",
+    "tipo": "CanalFree",
+    "subcategoria": "Nacional",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Telefe_logo.svg/1200px-Telefe_logo.svg.png",
     "url": "http://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
-    "kid": "573759b8886f5da992a3cccebdaeb21d",
-    "key": "37208a97c7f01edf523ed7575d5ba9f4",
+    "kid": "1248306118",
+    "key": "573759b8886f5da992a3cccebdaeb21d:37208a97c7f01edf523ed7575d5ba9f4",
     "referer": "https://cdn.cvattv.com.ar/",
-    "userAgent": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36"
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "origin": "https://cdn.cvattv.com.ar"
   },
   {
     "nombre": "Cinemax HD",
+    "tipo": "Premium",
+    "subcategoria": "Cine",
+    "logo": "https://logodownload.org/wp-content/uploads/2021/04/cinemax-logo.png",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd",
-    "kid": "977928a92b82ba3781741a6470f8f45b",
-    "key": "51f4e62827c128f7210b79a11587661a",
+    "kid": "336156035",
+    "key": "977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a",
     "referer": "https://cdn.cvattv.com.ar/",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36"
   },
   {
-  "nombre": "El Trece (1080p)",
-  "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
-  "referer": "https://vodgc.net/"
-},
- {
-  "nombre": "El Trece 2 (1080p)",
-  "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-  "referer": "https://vodgc.net/"
-},
-{
-  "nombre": "DirecTV Sport",
-  "url": "http://201.230.121.85:8000/play/a0yv/index.m3u8"
-}
+    "nombre": "El Trece (1080p)",
+    "tipo": "CanalFree",
+    "subcategoria": "Nacional",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Eltrece_logo.png",
+    "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
+    "referer": "https://vodgc.net/",
+    "userAgent": "Mozilla/5.0"
+  },
+  {
+    "nombre": "DirecTV Sport",
+    "tipo": "Premium",
+    "subcategoria": "Deportes",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Dsports_logo.png",
+    "url": "http://201.230.121.85:8000/play/a0yv/index.m3u8"
+  }
 ]
