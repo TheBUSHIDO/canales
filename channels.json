@@ -1,20 +1,23 @@
 [
   {
     "nombre": "Telefe",
-    "url": "http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
+    "url": "http://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
     "kid": "573759b8886f5da992a3cccebdaeb21d",
-    "key": "37208a97c7f01edf523ed7575d5ba9f4"
+    "key": "37208a97c7f01edf523ed7575d5ba9f4",
+    "referer": "https://cdn.cvattv.com.ar/"
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
   },
   {
     "nombre": "Cinemax HD",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd",
     "kid": "977928a92b82ba3781741a6470f8f45b",
-    "key": "51f4e62827c128f7210b79a11587661a"
+    "key": "51f4e62827c128f7210b79a11587661a",
+    "referer": "https://cdn.cvattv.com.ar/"
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36"
   },
   {
   "nombre": "El Trece (1080p)",
   "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
-  "userAgent": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
   "referer": "https://vodgc.net/"
 },
  {
