@@ -528,5 +528,15 @@
     "ua": "",
     "ref": "",
     "origin": ""
+  },
+  {
+    "nombre": "TV Câmara",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "categoria": "Brasil",
+    "subcategoria": "General",
+    "logo": "https://i.imgur.com/UpV2PRk.png",
+    "ua": "",
+    "ref": "",
+    "origin": ""
   }
 ]
