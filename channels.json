@@ -8,7 +8,8 @@
   "drmId": "1248306118",
   "drmType": "clearkey",
   "drmKey": "573759b8886f5da992a3cccebdaeb21d:37208a97c7f01edf523ed7575d5ba9f4",
-  "forceNative": true
+  "referer": "https://cdn.cvattv.com.ar/",
+  "userAgent": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36"
 },
   {
     "nombre": "Cinemax HD",
