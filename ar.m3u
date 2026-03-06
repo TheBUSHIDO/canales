@@ -1,39 +1,29 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.microsoft.playready.keyid",VALUE="940f756d43b4420892be348372467319"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png", ESPN
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="Deportes",ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=940f756d43b4420892be348372467319&key%5B%5D=6746cda92bff56869cceb79014c35147
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=940f756d43b4420892be348372467319:6746cda92bff56869cceb79014c35147
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
 https://cdn.trimi.com.ar/live/sm-live/ESPN_BKP_6/sa_live_dash_ll/ESPN_BKP_6.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png", ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="Deportes",ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ea7025085a58407e8ff8a0bb30124d5d&key%5B%5D=43e27216f78044dfb0c134faa28029d4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=ea7025085a58407e8ff8a0bb30124d5d:43e27216f78044dfb0c134faa28029d4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
 https://cdn.trimi.com.ar/live/sm-live/ESPN_2_BkP/sa_live_dash_ll/ESPN_2_BkP.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png", ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="Deportes",ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a2370ca5b9094aabaadc5e0f4a9679ca&key%5B%5D=a3b13386e6929346c23ca8a48f4cfa9d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=a2370ca5b9094aabaadc5e0f4a9679ca:a3b13386e6929346c23ca8a48f4cfa9d
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
 https://cdn.trimi.com.ar/live/sm-live/ESPN_3/sa_live_dash/ESPN_3.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pJK6xQ0/espn-4B.png", ESPN 4
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="Noticias",A24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5ad73320242a4ad2b6eb2426dd3c0a6d&key%5B%5D=78d8e57062ba715bce7a7f0253bc0c96
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://cdn.trimi.com.ar/live/sm-live/ESPN_4/sa_live_dash/ESPN_4.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png", A24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=aaa33fd380564479b57ab8296570aa3a&key%5B%5D=a89018f86f4402ad626bec3803bf3194
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=aaa33fd380564479b57ab8296570aa3a:a89018f86f4402ad626bec3803bf3194
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"}
 https://cdn.trimi.com.ar/live/sm-live/A_24_BACKUP/sa_live_dash/A_24_BACKUP.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png", A&E
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c1b8d5859d4a4f33b80b24184cc1da91&key%5B%5D=020cd87890a23b81535bd72bc275648f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/AE/sa_live_dash/AE.mpd
 
