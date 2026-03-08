@@ -1,38 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.microsoft.playready.keyid",VALUE="940f756d43b4420892be348372467319"
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="Deportes",ESPN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=940f756d43b4420892be348372467319:6746cda92bff56869cceb79014c35147
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
-https://cdn.trimi.com.ar/live/sm-live/ESPN_BKP_6/sa_live_dash_ll/ESPN_BKP_6.mpd
-
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="Deportes",ESPN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea7025085a58407e8ff8a0bb30124d5d:43e27216f78044dfb0c134faa28029d4
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
-https://cdn.trimi.com.ar/live/sm-live/ESPN_2_BkP/sa_live_dash_ll/ESPN_2_BkP.mpd
-
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="Deportes",ESPN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2370ca5b9094aabaadc5e0f4a9679ca:a3b13386e6929346c23ca8a48f4cfa9d
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
-https://cdn.trimi.com.ar/live/sm-live/ESPN_3/sa_live_dash/ESPN_3.mpd
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="Noticias",A24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aaa33fd380564479b57ab8296570aa3a:a89018f86f4402ad626bec3803bf3194
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"}
-https://cdn.trimi.com.ar/live/sm-live/A_24_BACKUP/sa_live_dash/A_24_BACKUP.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://cdn.trimi.com.ar/live/sm-live/AE/sa_live_dash/AE.mpd
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/800/542/0/0/32013737078382.png", Adult Swim
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=31a7b092ee464faf950f3a168725c23b&key%5B%5D=32bfdb74f702ed211075843104d62664
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
-https://cdn.trimi.com.ar/live/sm-live/ADULT_SWIM/sa_live_dash_ll/ADULT_SWIM.mpd
-
 # --- CANALES DE AIRE ---
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png" group-title="Canales de Aire",TELEFE
@@ -65,6 +33,26 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_cenc/Canal7.mpd
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
 https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_cenc/Net_TV.mpd
 
+# --- DEPORTES ---
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="Deportes",ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=940f756d43b4420892be348372467319:6746cda92bff56869cceb79014c35147
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+https://cdn.trimi.com.ar/live/sm-live/ESPN_BKP_6/sa_live_dash_ll/ESPN_BKP_6.mpd
+
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="Deportes",ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea7025085a58407e8ff8a0bb30124d5d:43e27216f78044dfb0c134faa28029d4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+https://cdn.trimi.com.ar/live/sm-live/ESPN_2_BkP/sa_live_dash_ll/ESPN_2_BkP.mpd
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="Deportes",ESPN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2370ca5b9094aabaadc5e0f4a9679ca:a3b13386e6929346c23ca8a48f4cfa9d
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+https://cdn.trimi.com.ar/live/sm-live/ESPN_3/sa_live_dash/ESPN_3.mpd
+
 # --- NOTICIAS ---
 
 #EXTINF:-1 tvg-id="TN" tvg-logo="https://i.ibb.co/NLWRMrb/todo-noticias.png" group-title="Noticias",TN
@@ -82,6 +70,12 @@ https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_cenc/C5N.mpd
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_cenc/La_Nacion.mpd
 
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="Noticias",A24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aaa33fd380564479b57ab8296570aa3a:a89018f86f4402ad626bec3803bf3194
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36"}
+https://cdn.trimi.com.ar/live/sm-live/A_24_BACKUP/sa_live_dash/A_24_BACKUP.mpd
+
 #EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/3rPWMK45/america24.png" group-title="Noticias",A24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
@@ -97,7 +91,7 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_cenc/26_TV_HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_cenc/CronicaTV.mpd
 
-# --- PELICULAS Y SERIES ---
+# --- CINE Y SERIES ---
 
 #EXTINF:-1 tvg-id="VOLVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/400/400/0/0/371516250745.png" group-title="Cine y Series",VOLVER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -108,6 +102,91 @@ https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_cenc/Volver.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_cenc/INCAA_Tv.mpd
+
+#EXTINF:-1 tvg-id="Cinemáx" tvg-logo="https://i.postimg.cc/fy9DWKGW/cinemax.png" group-title="Cine y Series",Cinemáx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
+#EXTHTTP:{"User-Agent":"AivAndroidPlayer/1.0 (AndroidDevice)", "Referer":"https://www.primevideo.com/"}
+https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
+
+#EXTINF:-1 tvg-id="Cinemax Action" tvg-logo="https://i.postimg.cc/N0jys3pY/cinemax-action.png" group-title="Cine y Series",Cinemax Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
+#EXTHTTP:{"User-Agent":"AivAndroidPlayer/1.0 (AndroidDevice)", "Referer":"https://www.primevideo.com/"}
+https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
+
+#EXTINF:-1 tvg-id="Cinemax Classics" tvg-logo="https://i.postimg.cc/jSz24skn/cinemax-classics.png" group-title="Cine y Series",Cinemax Classics
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
+#EXTHTTP:{"User-Agent":"AivAndroidPlayer/1.0 (AndroidDevice)", "Referer":"https://www.primevideo.com/"}
+https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
+
+#EXTINF:-1 tvg-id="Cinemax Hits" tvg-logo="https://i.postimg.cc/CxVL13Lf/cinemax-hits.png" group-title="Cine y Series",Cinemax Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
+#EXTHTTP:{"User-Agent":"AivAndroidPlayer/1.0 (AndroidDevice)", "Referer":"https://www.primevideo.com/"}
+https://otte-azion.live.pv-cdn.net/gru-nitro/live/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/400/400/0/0/40933922074230.png" group-title="Cine y Series",TNT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14.0; Build/UTTC.250917.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.0 Safari/537.36 DeviceType/AndroidTV", "Referer":"https://webclient.antinaplayplus.com.ar/"}
+https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/400/400/0/0/35224800072040.png" group-title="Cine y Series",FX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14.0; Build/UTTC.250917.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.0 Safari/537.36 DeviceType/AndroidTV", "Referer":"https://webclient.antinaplayplus.com.ar/"}
+https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd
+
+#EXTINF:-1 tvg-id="Cine Premium" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1807/CH_LOGO/400/400/0/0/30781400075257.png" group-title="Cine y Series",Cine Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14.0; Build/UTTC.250917.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.0 Safari/537.36 DeviceType/AndroidTV", "Referer":"https://webclient.antinaplayplus.com.ar/"}
+https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd
+
+#EXTINF:-1 tvg-id="TNT Series (Sensa)" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/117/CH_LOGO/400/400/0/0/18783550073421.png" group-title="Cine y Series",TNT Series
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d15f2d2f8f81fbacd82391f5889aa3a:97c7a5029500a81d37f2b70d6276fc9a
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 14.0; Build/UTTC.250917.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.0 Safari/537.36 DeviceType/AndroidTV", "Referer":"https://webclient.antinaplayplus.com.ar/"}
+https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd
+
+#EXTINF:-1 tvg-id="SPACE H.265" tvg-logo="https://i.postimg.cc/yNPgTC2x/space-hd.png" group-title="Cine y Series",SPACE H.265
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=010c457d967d5aa2c57c727fdddc5ed3:5e214c17052cc48416e676ff712e19f3
+#EXTHTTP:{"User-Agent":"izzigo/11.5.1(8)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2"}
+https://zap-live4-ott.izzigo.tv/6/out/u/dash/SPACE-HD-H265/default.mpd
+
+#EXTINF:-1 tvg-id="SPACE (Embed)" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/400/400/0/0/98227784074535.png" group-title="Cine y Series",SPACE
+#EXTHTTP:{"User-Agent":"2.18.4 (Linux;Android 15) ExoPlayerLib/2.18.4", "Referer":"https://embedcanais.com/"}
+https://embcanais.playtv1.workers.dev/space/manifest.mpd
+
+#EXTINF:-1 tvg-id="TNT SERIES (Flow)" tvg-logo="https://i.postimg.cc/g2bN5z1T/tnt-series.png" group-title="Cine y Series",TNT SERIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
+https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_cenc/TNTSeries.mpd
+
+#EXTINF:-1 tvg-id="CINEMAX (Flow)" tvg-logo="https://i.postimg.cc/mDyC8Yy9/Cinemax-Logo.png" group-title="Cine y Series",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a
+https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_cenc/Cinemax.mpd
+
+#EXTINF:-1 tvg-id="SPACE (Flow)" tvg-logo="https://i.postimg.cc/GtzHSFRJ/98227784074535.png" group-title="Cine y Series",SPACE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
+https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_cenc/Space.mpd
+
+# --- VARIEDADES Y OTROS ---
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/800/542/0/0/32013737078382.png" group-title="Variedades", Adult Swim
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=31a7b092ee464faf950f3a168725c23b&key%5B%5D=32bfdb74f702ed211075843104d62664
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+https://cdn.trimi.com.ar/live/sm-live/ADULT_SWIM/sa_live_dash_ll/ADULT_SWIM.mpd
+
+#EXTINF:-1 tvg-name="A&E" tvg-logo="https://i.ibb.co/3W6T7X7/ae.png" group-title="Variedades",A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://cdn.trimi.com.ar/live/sm-live/AE/sa_live_dash/AE.mpd
 
 # --- INTERÉS GENERAL ---
 
@@ -131,7 +210,7 @@ https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_cenc/KZO.mpd
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
 https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_cenc/Metro.mpd
 
-# --- CULTURA Y EDUCACIÓN ---
+# --- CULTURA ---
 
 #EXTINF:-1 tvg-id="ENCUENTRO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/400/400/0/0/1011215007477.png" group-title="Cultura",ENCUENTRO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
