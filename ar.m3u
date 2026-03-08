@@ -32,3 +32,113 @@ https://cdn.trimi.com.ar/live/sm-live/AE/sa_live_dash/AE.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=31a7b092ee464faf950f3a168725c23b&key%5B%5D=32bfdb74f702ed211075843104d62664
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
 https://cdn.trimi.com.ar/live/sm-live/ADULT_SWIM/sa_live_dash_ll/ADULT_SWIM.mpd
+
+# --- CANALES DE AIRE ---
+
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png" group-title="Canales de Aire",TELEFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_cenc/TelefeHD.mpd
+
+#EXTINF:-1 tvg-id="EL TRECE" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" group-title="Canales de Aire",EL TRECE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_cenc/ArtearHD.mpd
+
+#EXTINF:-1 tvg-id="EL NUEVE" tvg-logo="https://i.postimg.cc/KjTjhNV0/canal9-1.png" group-title="Canales de Aire",EL NUEVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_cenc/Canal9.mpd
+
+#EXTINF:-1 tvg-id="AMÉRICA TV" tvg-logo="https://i.ibb.co/cNXpgSJ/america.png" group-title="Canales de Aire",AMÉRICA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_cenc/AmericaTV.mpd
+
+#EXTINF:-1 tvg-id="TVP" tvg-logo="https://i.postimg.cc/QxzKDh3d/tvp.png" group-title="Canales de Aire",TVP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_cenc/Canal7.mpd
+
+#EXTINF:-1 tvg-id="NET TV" tvg-logo="https://i.ibb.co/1mdbZfR/net-tv.png" group-title="Canales de Aire",NET TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
+https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_cenc/Net_TV.mpd
+
+# --- NOTICIAS ---
+
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://i.ibb.co/NLWRMrb/todo-noticias.png" group-title="Noticias",TN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_cenc/TodoNoticias.mpd
+
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/400/400/0/0/8952752307709.png" group-title="Noticias",C5N
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_cenc/C5N.mpd
+
+#EXTINF:-1 tvg-id="LN+" tvg-logo="https://i.ibb.co/x7NshVq/la-nacion-mas.png" group-title="Noticias",LN+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
+https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_cenc/La_Nacion.mpd
+
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://i.postimg.cc/3rPWMK45/america24.png" group-title="Noticias",A24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
+https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_cenc/America24.mpd
+
+#EXTINF:-1 tvg-id="CANAL 26" tvg-logo="https://i.ibb.co/SB9pjpJ/canal-26.png" group-title="Noticias",CANAL 26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
+https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_cenc/26_TV_HD.mpd
+
+#EXTINF:-1 tvg-id="CRÓNICA TV" tvg-logo="https://i.ibb.co/kyD7h7q/cronica.png" group-title="Noticias",CRÓNICA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
+https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_cenc/CronicaTV.mpd
+
+# --- PELICULAS Y SERIES ---
+
+#EXTINF:-1 tvg-id="VOLVER" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/400/400/0/0/371516250745.png" group-title="Cine y Series",VOLVER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
+https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_cenc/Volver.mpd
+
+#EXTINF:-1 tvg-id="CINEAR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/400/400/0/0/98997452071605.png" group-title="Cine y Series",CINEAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
+https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_cenc/INCAA_Tv.mpd
+
+# --- INTERÉS GENERAL ---
+
+#EXTINF:-1 tvg-id="CIUDAD MAGAZINE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/400/400/0/0/917545880726.png" group-title="Interés General",CIUDAD MAGAZINE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
+https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_cenc/Magazine.mpd
+
+#EXTINF:-1 tvg-id="EL GARAGE TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1481/CH_LOGO/800/542/0/0/3411412507358.png" group-title="Interés General",EL GARAGE TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
+https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_cenc/El_Garage.mpd
+
+#EXTINF:-1 tvg-id="KZO ENTERTAINMENT" tvg-logo="https://i.postimg.cc/FzbyWTLM/kzo.png" group-title="Interés General",KZO ENTERTAINMENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
+https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_cenc/KZO.mpd
+
+#EXTINF:-1 tvg-id="METRO" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/904936680727.png" group-title="Interés General",METRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
+https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_cenc/Metro.mpd
+
+# --- CULTURA Y EDUCACIÓN ---
+
+#EXTINF:-1 tvg-id="ENCUENTRO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/400/400/0/0/1011215007477.png" group-title="Cultura",ENCUENTRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
+https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_cenc/Encuentro.mpd
+
+#EXTINF:-1 tvg-id="CANAL A" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/846786600758.png" group-title="Cultura",CANAL A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
+https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_cenc/Canal_a.mpd
