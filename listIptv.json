@@ -209,6 +209,18 @@
     "ref": "https://xtrematv.com/?p=1434",
     "origin": ""
   },
+   {
+    "nombre": "Cinemax HD",
+    "categoria": "Peliculas",
+    "subcategoria": "Cine",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd",
+    "drmType": "clearkey",
+    "drmId": "336156035",
+    "drmKey": "977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a",
+    "referer": "https://cdn.cvattv.com.ar/",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36"
+  },
   {
     "nombre": "Xtrema Cartoons",
     "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
