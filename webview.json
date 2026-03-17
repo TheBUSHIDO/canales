@@ -128,5 +128,15 @@
   "ua": "Mozilla/5.0 (Linux; Android 10)",
   "ref": "https://www.cablevisionhd.com/",
   "origin": "https://www.cablevisionhd.com"
+  },
+  {
+  "nombre": "ESPN PREMIUM (Directo)",
+  "url": "https://deepcathink.com/deportivo.php?player=mobile&live=espnar",
+  "categoria": "Argentina",
+  "subcategoria": "Deportes",
+  "logo": "",
+  "ua": "",
+  "ref": "",
+  "origin": ""
   }
 ]
