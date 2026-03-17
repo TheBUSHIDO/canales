@@ -118,10 +118,15 @@
     "ua": "",
     "ref": "",
     "origin": ""
-  }
-]    "logo": "",
-    "ua": "",
-    "ref": "",
-    "origin": ""
+  },
+  {
+  "nombre": "TyC Sports CVHD",
+  "url": "https://www.cablevisionhd.com/stream/tycsports.php",
+  "categoria": "Argentina",
+  "subcategoria": "Deportes",
+  "logo": "",
+  "ua": "Mozilla/5.0 (Linux; Android 10)",
+  "ref": "https://www.cablevisionhd.com/",
+  "origin": "https://www.cablevisionhd.com"
   }
 ]
