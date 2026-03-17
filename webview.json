@@ -20,23 +20,23 @@
     "origin": ""
   },
   {
-    "nombre": "El Trece-1",
-    "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
+    "nombre": "Deporte 1",
+    "url": "https://elcanaldeportivo.com/tycsports-sd.php",
     "categoria": "Argentina",
     "subcategoria": "Entretenimiento",
     "logo": "",
     "ua": "",
-    "ref": "https://vodgc.net",
-    "origin": "https://vodgc.net"
+    "ref": "",
+    "origin": ""
   },
   {
-    "nombre": "El Trece-1",
-    "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
+    "nombre": "TNT SPORTS",
+    "url": "https://streamtp10.com/global1.php?stream=tntsports",
     "categoria": "Argentina",
     "subcategoria": "Entretenimiento",
     "logo": "",
     "ua": "",
-    "ref": "https://vodgc.net",
-    "origin": "https://vodgc.net"
+    "ref": "",
+    "origin": ""
   }
 ]
