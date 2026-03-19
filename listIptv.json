@@ -218,6 +218,7 @@
     "drmType": "clearkey",
     "drmKey": "977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a",
     "ref": "https://cdn.cvattv.com.ar/",
+     "origin": "https://cdn.cvattv.com.ar",
     "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36"
   },
   {
