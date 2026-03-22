@@ -15,12 +15,36 @@
   "origin": ""
   },
   {
-  "nombre": "TyC Sports",
+  "nombre": "DSports",
   "urls": [
-    "https://la14hd.com/vivo/canales.php?stream=tycsports",
-    "https://streamtpnew.com/global1.php?stream=tycsports",
-    "https://streamtp10.com/global1.php?stream=tycsports",
-    "https://tvtvhd.com/canales.php?stream=tycsports"
+    "https://la14hd.com/vivo/canal.php?stream=dsports",
+    "https://tvtvhd.com/canales.php?stream=dsports"
+  ],
+  "categoria": "Deportes",
+  "subcategoria": "Fútbol",
+  "logo": "",
+  "ua": "",
+  "ref": "",
+  "origin": ""
+},
+{
+  "nombre": "DSports+",
+  "urls": [
+    "https://la14hd.com/vivo/canal.php?stream=dsportsplus",
+    "https://tvtvhd.com/canales.php?stream=dsportsplus"
+  ],
+  "categoria": "Deportes",
+  "subcategoria": "Fútbol",
+  "logo": "",
+  "ua": "",
+  "ref": "",
+  "origin": ""
+},
+{
+  "nombre": "DSports2",
+  "urls": [
+    "https://la14hd.com/vivo/canal.php?stream=dsports2",
+    "https://tvtvhd.com/canales.php?stream=dsports2"
   ],
   "categoria": "Deportes",
   "subcategoria": "Fútbol",
