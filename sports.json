@@ -52,5 +52,55 @@
   "ua": "",
   "ref": "",
   "origin": ""
+},
+{
+  "nombre": "Espn",
+  "urls": [
+    "https://tvtvhd.com/canales.php?stream=espn"
+  ],
+  "categoria": "Deportes",
+  "subcategoria": "Fútbol",
+  "logo": "",
+  "ua": "",
+  "ref": "",
+  "origin": ""
+},
+{
+  "nombre": "Espn2",
+  "urls": [
+    "https://tvtvhd.com/canales.php?stream=espn2"
+  ],
+  "categoria": "Deportes",
+  "subcategoria": "Fútbol",
+  "logo": "",
+  "ua": "",
+  "ref": "",
+  "origin": ""
+},{
+  "nombre": "Espn",
+  "urls": [
+    "https://tvtvhd.com/canales.php?stream=espn3"
+  ],
+  "categoria": "Deportes",
+  "subcategoria": "Fútbol",
+  "logo": "",
+  "ua": "",
+  "ref": "",
+  "origin": ""
+},
+{
+  "nombre": "Espn",
+  "urls": [
+    "https://latamvidz1.com/canal.php?stream=espnpremium",
+    "https://la14hd.com/vivo/canal.php?stream=espnpremium",
+    "https://streamtpnew.com/global1.php?stream=espnpremium",
+    "https://elcanaldeportivo.com/espnpremium.php"
+  ],
+  "categoria": "Deportes",
+  "subcategoria": "Fútbol",
+  "logo": "",
+  "ua": "",
+  "ref": "",
+  "origin": ""
 }
 ]
