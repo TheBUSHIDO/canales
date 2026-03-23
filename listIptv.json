@@ -211,14 +211,14 @@
   },
    {
     "nombre": "Cinemax HD",
-    "url": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd",
+    "url": "https://zap-live4-ott.izzigo.tv/6/out/u/dash/SPACE-HD-H265/default.mpd",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",
     "categoria": "Cine",
     "subcategoria": "Premium",
     "drmType": "clearkey",
-    "drmKey": "977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a",
-    "ref": "https://cdn.cvattv.com.ar/",
-     "origin": "https://cdn.cvattv.com.ar",
+    "drmKey": "010c457d967d5aa2c57c727fdddc5ed3:5e214c17052cc48416e676ff712e19f3",
+    "ref": "",
+     "origin": "",
     "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36"
   },
   {
