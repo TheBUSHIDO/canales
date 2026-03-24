@@ -160,6 +160,136 @@
     "origin": ""
   },
   {
+    "nombre": "Span3",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167725",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "Span4",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167726",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "Span Premium",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/327917",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "Span Premium Exclusivo",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167727",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "DSports",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167731",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "DSports+",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167732",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "DSports2",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167733",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "FoxSport",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167735",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "FoxSport3",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167736",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "TyC Sport op1",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/443250",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "TyC Sport op2",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/327918",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "TNT Sport op1",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/327919",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "TNT Sport op2",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/327920",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
     "nombre": "TyC Sport",
     "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
     "categoria": "Deportes",
