@@ -209,6 +209,216 @@
     "ref": "https://xtrematv.com/?p=1434",
     "origin": ""
   },
+  {
+    "nombre": "A&E FHD",
+    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/414453.ts",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "A&E HD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414454",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "A&E SD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414455",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "Cinemax HD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414457",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "Cinemax SD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414458",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "Star Channel FHD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414464",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "Star Channel HD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414459",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "Star Channel SD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414460",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "HBO HD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414468",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "HBO SD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414469",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "HBO 2 HD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414462",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "HBO Family HD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414465",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "HBO Family SD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414466",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "HBO Pop HD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414471",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "HBO Pop SD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414472",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "TNT FHD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414473",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "TNT HD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414474",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "TNT SD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414475",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "TNT Series FHD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414476",
+    "categoria": "Series",
+    "subcategoria": "Series",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "TNT Series HD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414477",
+    "categoria": "Series",
+    "subcategoria": "Series",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
+    "nombre": "TNT Series SD",
+    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414478",
+    "categoria": "Series",
+    "subcategoria": "Series",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
    {
     "nombre": "Cinemax HD",
     "url": "https://zap-live4-ott.izzigo.tv/6/out/u/dash/SPACE-HD-H265/default.mpd",
