@@ -160,6 +160,16 @@
     "origin": ""
   },
   {
+    "nombre": "Span Premium",
+    "url": "https://val01.ride.com.ar/tvmia/d07/playlist.m3u8",
+    "categoria": "Deportes",
+    "subcategoria": "Deportes",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ref": "",
+    "origin": ""
+  },
+  {
     "nombre": "Span3",
     "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167725",
     "categoria": "Deportes",
@@ -172,16 +182,6 @@
   {
     "nombre": "Span4",
     "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167726",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "Span Premium",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/327917",
     "categoria": "Deportes",
     "subcategoria": "Deportes",
     "logo": "",
