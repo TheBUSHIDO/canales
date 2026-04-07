@@ -550,17 +550,21 @@
     "origin": ""
   },
    {
-    "nombre": "Cinemax HD",
-    "url": "https://zap-live4-ott.izzigo.tv/6/out/u/dash/SPACE-HD-H265/default.mpd",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",
-    "categoria": "Cine",
-    "subcategoria": "Premium",
-    "drmType": "clearkey",
-    "drmKey": "010c457d967d5aa2c57c727fdddc5ed3:5e214c17052cc48416e676ff712e19f3",
-    "ref": "",
-     "origin": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36"
-  },
+  "nombre": "SPACE HD",
+  "url": "https://zap-live4-ott.izzigo.tv/6/out/u/dash/SPACE-HD-H265/default.mpd",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",
+  "categoria": "Cine",
+  "subcategoria": "Premium",
+  "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+  "ref": "",
+  "origin": "",
+  "drm": {
+    "type": "clearkey",
+    "clearKeys": {
+      "010c457d967d5aa2c57c727fdddc5ed3": "5e214c17052cc48416e676ff712e19f3"
+    }
+  }
+},
   {
     "nombre": "Xtrema Cartoons",
     "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
