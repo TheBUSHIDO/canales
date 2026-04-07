@@ -566,6 +566,22 @@
   }
 },
   {
+  "nombre": "Net TV (DRM)",
+  "url": "https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_C/Net_TV.mpd",
+  "categoria": "Argentina",
+  "subcategoria": "Entretenimiento",
+  "logo": "https://media.canalnet.tv/2018/08/N-600x720.png",
+  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+  "ref": "https://portal.app.flow.com.ar/",
+  "origin": "https://portal.app.flow.com.ar/",
+  "drm": {
+    "type": "clearkey",
+    "clearKeys": {
+      "89d433166edd31d56df2a59df8ec6704": "b2015faded0a456d10aa8db1b4cbac68"
+    }
+  }
+  },
+  {
   "nombre": "Span Premium HD",
   "url": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
   "logo": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
