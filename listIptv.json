@@ -165,13 +165,13 @@
     "categoria": "Deportes",
     "subcategoria": "Deportes",
     "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
+    "ua": "",
     "ref": "",
     "origin": ""
   },
   {
     "nombre": "Span3",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167725",
+    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/167725.m3u8",
     "categoria": "Deportes",
     "subcategoria": "Deportes",
     "logo": "",
@@ -341,7 +341,7 @@
   },
   {
     "nombre": "A&E FHD",
-    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/414453.ts",
+    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/414453.m3u8",
     "categoria": "Peliculas",
     "subcategoria": "Peliculas",
     "logo": "",
@@ -521,7 +521,7 @@
   },
   {
     "nombre": "TNT Series FHD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414476",
+    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/414476.m3u8",
     "categoria": "Series",
     "subcategoria": "Series",
     "logo": "",
@@ -531,7 +531,7 @@
   },
   {
     "nombre": "TNT Series HD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414477",
+    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/414477.m3u8",
     "categoria": "Series",
     "subcategoria": "Series",
     "logo": "",
@@ -541,7 +541,7 @@
   },
   {
     "nombre": "TNT Series SD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414478",
+    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/414478.m3u8",
     "categoria": "Series",
     "subcategoria": "Series",
     "logo": "",
@@ -566,18 +566,18 @@
   }
 },
   {
-  "nombre": "Net TV (DRM)",
-  "url": "https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_C/Net_TV.mpd",
-  "categoria": "Argentina",
-  "subcategoria": "Entretenimiento",
-  "logo": "https://media.canalnet.tv/2018/08/N-600x720.png",
+  "nombre": "Golden Plus (DRM)",
+  "url": "https://cdn03.gigared.com.ar/live/eds/Golden_Plus/sa_live_dash/Golden_Plus.mpd",
+  "categoria": "Peliculas",
+  "subcategoria": "Peliculas",
+  "logo": "https://i.ibb.co/6D60Brn/golden-premier.png",
   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-  "ref": "https://portal.app.flow.com.ar/",
-  "origin": "https://portal.app.flow.com.ar/",
+  "ref": "",
+  "origin": "",
   "drm": {
     "type": "clearkey",
     "clearKeys": {
-      "89d433166edd31d56df2a59df8ec6704": "b2015faded0a456d10aa8db1b4cbac68"
+      "2127eb2cb9152cb1a21815cf423b7114": "3a1715592b6916bb3c2e7e477c5441bd"
     }
   }
   },
