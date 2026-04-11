@@ -551,7 +551,7 @@
   },
    {
   "nombre": "SPACE HD",
-  "url": "https://zap-live4-ott.izzigo.tv/6/out/u/dash/SPACE-HD-H265/default.mpd",
+  "url": "https://cdn02.gigared.com.ar/live/eds/Sony_Channel/sa_live_dash/Sony_Channel.mpd",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",
   "categoria": "Cine",
   "subcategoria": "Premium",
@@ -559,7 +559,7 @@
   "ref": "",
   "origin": "",
   "drmType": "clearkey",
-  "drmKey": "010c457d967d5aa2c57c727fdddc5ed3:5e214c17052cc48416e676ff712e19f3"
+  "drmKey": "a2e6c6842391fd4d9dfe3c047e286eb4:7d563478e5669d44cec9a6215052fec3"
    },
   {
   "nombre": "Golden Plus (DRM)",
