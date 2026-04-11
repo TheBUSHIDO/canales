@@ -558,9 +558,9 @@
   "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
   "ref": "",
   "origin": "",
-  "drmtype": "clearkey",
+  "drmType": "clearkey",
   "drmKey": "010c457d967d5aa2c57c727fdddc5ed3:5e214c17052cc48416e676ff712e19f3"
-},
+   },
   {
   "nombre": "Golden Plus (DRM)",
   "url": "https://cdn03.gigared.com.ar/live/eds/Golden_Plus/sa_live_dash/Golden_Plus.mpd",
