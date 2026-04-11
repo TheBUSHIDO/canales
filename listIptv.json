@@ -7,7 +7,8 @@
     "logo": "",
     "ua": "",
     "ref": "https://vodgc.net",
-    "origin": "https://vodgc.net"
+    "origin": "https://vodgc.net",
+    "motor": "eplayer"
   },
   {
     "nombre": "El Trece-2",
@@ -17,7 +18,8 @@
     "logo": "",
     "ua": "",
     "ref": "https://vodgc.net",
-    "origin": "https://vodgc.net"
+    "origin": "https://vodgc.net",
+    "motor": "mplayer"
   },
   {
     "nombre": "America TV",
@@ -27,7 +29,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "NET TV",
@@ -37,7 +40,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "NET TV",
@@ -47,7 +51,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "TELEFE",
@@ -57,7 +62,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Ciudad Magazine",
@@ -67,7 +73,8 @@
     "logo": "",
     "ua": "",
     "ref": "https://vodgc.net",
-    "origin": "https://vodgc.net"
+    "origin": "https://vodgc.net",
+    "motor": "mplayer"
   },
   {
     "nombre": "Canal 21 TV",
@@ -77,7 +84,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Canal 6 Posadas",
@@ -87,7 +95,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Canal 4 Posadas",
@@ -97,7 +106,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Misiones Cuatro",
@@ -107,7 +117,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Canal 2 Misiones",
@@ -117,7 +128,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "A24",
@@ -127,7 +139,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "24/7 Noticias",
@@ -137,7 +150,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Canal26 - A",
@@ -147,7 +161,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Canal26 - B",
@@ -157,7 +172,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Span Premium",
@@ -167,127 +183,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "Span3",
-    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/167725.m3u8",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "Span4",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167726",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "Span Premium Exclusivo",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167727",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "DSports",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167731",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "DSports+",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167732",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "DSports2",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167733",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "FoxSport",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167735",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "FoxSport3",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/167736",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "TyC Sport op1",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/443250",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "TyC Sport op2",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/327918",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "TNT Sport op1",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/327919",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "TNT Sport op2",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/327920",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "TyC Sport",
@@ -297,7 +194,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "TyC Sport (Opcion2)",
@@ -307,7 +205,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "DirecTV Sport",
@@ -317,7 +216,8 @@
     "logo": "https://pbs.twimg.com/media/FhSdYd1WAAE8b5R?format=jpg&name=small",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "SKY SPORT",
@@ -327,7 +227,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Xtrema Accion",
@@ -337,254 +238,9 @@
     "logo": "",
     "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
     "ref": "https://xtrematv.com/?p=1434",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
-  {
-    "nombre": "A&E FHD",
-    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/414453.m3u8",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "A&E HD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414454",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "A&E SD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414455",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "Cinemax HD",
-    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/414457.m3u8",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "Cinemax SD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414458",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "Star Channel FHD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414464",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "Star Channel HD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414459",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "Star Channel SD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414460",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "HBO HD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414468",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "HBO SD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414469",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "HBO 2 HD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414462",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "HBO Family HD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414465",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "HBO Family SD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414466",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "HBO Pop HD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414471",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "HBO Pop SD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414472",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "TNT FHD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414473",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "TNT HD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414474",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "TNT SD",
-    "url": "http://redworld.pro:8880/PebRnV87MJhn/XPgex4XmutJe/414475",
-    "categoria": "Peliculas",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "TNT Series FHD",
-    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/414476.m3u8",
-    "categoria": "Series",
-    "subcategoria": "Series",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "TNT Series HD",
-    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/414477.m3u8",
-    "categoria": "Series",
-    "subcategoria": "Series",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "TNT Series SD",
-    "url": "http://redworld.pro:8880/live/PebRnV87MJhn/XPgex4XmutJe/414478.m3u8",
-    "categoria": "Series",
-    "subcategoria": "Series",
-    "logo": "",
-    "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-    "ref": "",
-    "origin": ""
-  },
-   {
-  "nombre": "SPACE HD",
-  "url": "https://cdn02.gigared.com.ar/live/eds/Sony_Channel/sa_live_dash/Sony_Channel.mpd",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",
-  "categoria": "Cine",
-  "subcategoria": "Premium",
-  "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
-  "ref": "",
-  "origin": "",
-  "drmType": "clearkey",
-  "drmKey": "a2e6c6842391fd4d9dfe3c047e286eb4:7d563478e5669d44cec9a6215052fec3"
-   },
-  {
-  "nombre": "Golden Plus (DRM)",
-  "url": "https://cdn03.gigared.com.ar/live/eds/Golden_Plus/sa_live_dash/Golden_Plus.mpd",
-  "categoria": "Peliculas",
-  "subcategoria": "Peliculas",
-  "logo": "https://i.ibb.co/6D60Brn/golden-premier.png",
-  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-  "ref": "",
-  "origin": "",
-  "drmType": "clearkey",
-  "drmKey" : "2127eb2cb9152cb1a21815cf423b7114:3a1715592b6916bb3c2e7e477c5441bd"
-  },
-  {
-  "nombre": "Span Premium HD",
-  "url": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
-  "logo": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
-  "categoria": "Deportes",
-  "subcategoria": "Deportes",
-  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-  "ref": "",
-  "origin": "",
-  "drmType": "clearkey",
-  "drmKey": "4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257"
-},
   {
     "nombre": "Xtrema Cartoons",
     "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
@@ -593,7 +249,8 @@
     "logo": "",
     "ua": "",
     "ref": "https://xtrematv.com/?p=1390",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "13 Kids",
@@ -603,27 +260,8 @@
     "logo": "https://i.imgur.com/m6y9AMe.png",
     "ua": "",
     "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "Lobo de wall street",
-    "url": "https://archive.org/download/1_20200808_20200808/U/1.mp4",
-    "categoria": "Cine",
-    "subcategoria": "Drama",
-    "logo": "",
-    "ua": "",
-    "ref": "",
-    "origin": ""
-  },
-  {
-    "nombre": "Escuela de rock",
-    "url": "https://archive.org/download/tren_20200314/tren/tren.mkv",
-    "categoria": "Cine",
-    "subcategoria": "Comedia",
-    "logo": "",
-    "ua": "",
-    "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "13 Teleseries",
@@ -633,7 +271,8 @@
     "logo": "https://i.imgur.com/aJMBnse.png",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Cumbia Mix",
@@ -643,7 +282,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Kpop Mix",
@@ -653,7 +293,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Urban Mix",
@@ -663,7 +304,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "SBT Interior",
@@ -673,7 +315,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "RecordTV",
@@ -683,7 +326,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "TV Series 1 As Panteras",
@@ -693,7 +337,8 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "COM Brasil",
@@ -703,7 +348,8 @@
     "logo": "https://i.imgur.com/c8ztQnF.png",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "ISTV",
@@ -713,7 +359,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "Rede Brasil",
@@ -723,7 +370,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "TV Câmara",
@@ -733,7 +381,8 @@
     "logo": "https://i.imgur.com/UpV2PRk.png",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "TV Cultura",
@@ -743,7 +392,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   },
   {
     "nombre": "TIGO EN VIVO",
@@ -753,6 +403,7 @@
     "logo": "",
     "ua": "",
     "ref": "",
-    "origin": ""
+    "origin": "",
+    "motor": "mplayer"
   }
-]
+    ]
