@@ -558,12 +558,8 @@
   "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
   "ref": "",
   "origin": "",
-  "drm": {
-    "type": "clearkey",
-    "clearKeys": {
-      "010c457d967d5aa2c57c727fdddc5ed3": "5e214c17052cc48416e676ff712e19f3"
-    }
-  }
+  "drmtype": "clearkey",
+  "drmKey": "010c457d967d5aa2c57c727fdddc5ed3:5e214c17052cc48416e676ff712e19f3"
 },
   {
   "nombre": "Golden Plus (DRM)",
@@ -574,12 +570,8 @@
   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
   "ref": "",
   "origin": "",
-  "drm": {
-    "type": "clearkey",
-    "clearKeys": {
-      "2127eb2cb9152cb1a21815cf423b7114": "3a1715592b6916bb3c2e7e477c5441bd"
-    }
-  }
+  "drmType": "clearkey",
+  "drmKey" : "2127eb2cb9152cb1a21815cf423b7114:3a1715592b6916bb3c2e7e477c5441bd"
   },
   {
   "nombre": "Span Premium HD",
@@ -590,12 +582,8 @@
   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
   "ref": "",
   "origin": "",
-  "drm": {
-    "type": "clearkey",
-    "clearKeys": {
-      "4c230dbc7f6a4bfa6ad0aa73ff792374": "4186a7c2a15f590a9399886feaec4257"
-    }
-  }
+  "drmType": "clearkey",
+  "drmKey": "4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257"
 },
   {
     "nombre": "Xtrema Cartoons",
