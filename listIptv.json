@@ -264,6 +264,17 @@
     "motor": "mplayer"
   },
   {
+    "nombre": "Disney Junior 2",
+    "url": "http://ats-edge-inde-4.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "categoria": "Infantiles",
+    "subcategoria": "Dibujos",
+    "logo": "https://i.imgur.com/m6y9AMe.png",
+    "ua": "",
+    "ref": "",
+    "origin": "",
+    "motor": "mplayer"
+  },
+  {
     "nombre": "13 Kids",
     "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8",
     "categoria": "Infantiles",
