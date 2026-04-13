@@ -286,6 +286,17 @@
     "motor": "mplayer"
   },
   {
+    "nombre": "Test Pelicula",
+    "url": "https://docs.google.com/uc?export=download&id=1oqKAtDPxgus2OAoAlbAUzdl33w8F6Td2",
+    "categoria": "Peliculas",
+    "subcategoria": "Peliculas",
+    "logo": "https://i.imgur.com/aJMBnse.png",
+    "ua": "",
+    "ref": "",
+    "origin": "",
+    "motor": "mplayer"
+  },
+  {
     "nombre": "Cumbia Mix",
     "url": "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8",
     "categoria": "Música",
