@@ -53,8 +53,9 @@
     "ref": "",
     "origin": "",
     "motor": "mplayer"
-  },{
-    "nombre": "TyC Sport",
+  },
+  {
+    "nombre": "TyCSport",
     "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
     "categoria": "Argentina",
     "subcategoria": "Entretenimiento",
