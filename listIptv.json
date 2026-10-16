@@ -1,5 +1,15 @@
 [
-  {
+   {
+    "nombre": "HBO- CINE CANAL",
+    "url": "https://streaming.onnethn.com/CINEMAX/playlist.m3u8",
+    "categoria": "Argentina",
+    "subcategoria": "Entretenimiento",
+    "logo": "",
+    "ua": "",
+    "ref": "",
+    "origin": "",
+    "motor": "eplayer"
+  },{
     "nombre": "Ver Partido",
     "url": "https://unlimited1-saopaulo.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8",
     "categoria": "Argentina",
