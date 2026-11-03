@@ -1,7 +1,28 @@
 [
    {
-    "nombre": "HBO",
+    "nombre": "CineMax",
     "url": "https://streaming.onnethn.com/CINEMAX/playlist.m3u8",
+    "categoria": "Cine",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "",
+    "ref": "",
+    "origin": "",
+    "motor": "eplayer"
+  },
+   {
+    "nombre": "Sony One",
+    "url": "https://spt-sonyonecomedias-mx.lg.wurl.tv/playlist.m3u8",
+    "categoria": "Cine",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "",
+    "ref": "",
+    "origin": "",
+    "motor": "eplayer"
+  },{
+    "nombre": "AMC",
+    "url": "https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8",
     "categoria": "Cine",
     "subcategoria": "Peliculas",
     "logo": "",
@@ -220,13 +241,13 @@
   {
     "nombre": "Span Premium",
     "url": "https://val01.ride.com.ar/tvmia/d07/playlist.m3u8",
-    "categoria": "Deportes",
-    "subcategoria": "Deportes",
+    "categoria": "Cine",
+    "subcategoria": "Peliculas",
     "logo": "",
     "ua": "",
     "ref": "",
     "origin": "",
-    "motor": "mplayer"
+    "motor": "eplayer"
   },
   {
     "nombre": "TyC Sport",
@@ -275,7 +296,7 @@
   {
     "nombre": "Xtrema Accion",
     "url": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8",
-    "categoria": "Peliculas",
+    "categoria": "Cine",
     "subcategoria": "Peliculas",
     "logo": "",
     "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
@@ -292,7 +313,7 @@
   "ua": "",
   "ref": "",
   "origin": "",
-  "motor": "webplayer",
+  "motor": "eplayer",
   "drmType": "",
   "drmKey": "010c457d967d5aa2c57c727fdddc5ed3:5e214c17052cc48416e676ff712e19f3"
   },
