@@ -30,26 +30,6 @@
     "ref": "",
     "origin": "",
     "motor": "eplayer"
-  },{
-    "nombre": "TyC Sport",
-    "url": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
-    "categoria": "Deportes",
-    "subcategoria": "Futbol",
-    "logo": "",
-    "ua": "",
-    "ref": "https://vodgc.net",
-    "origin": "https://vodgc.net",
-    "motor": "eplayer"
-  },{
-    "nombre": "TyC Sports FAN",
-    "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
-    "categoria": "Argentina",
-    "subcategoria": "Entretenimiento",
-    "logo": "",
-    "ua": "",
-    "ref": "https://vodgc.net",
-    "origin": "https://vodgc.net",
-    "motor": "eplayer"
   },
   {
     "nombre": "El Trece-1 ",
@@ -105,17 +85,6 @@
     "ref": "",
     "origin": "",
     "motor": "mplayer"
-  },
-  {
-    "nombre": "TyCSport",
-    "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
-    "categoria": "Argentina",
-    "subcategoria": "Entretenimiento",
-    "logo": "",
-    "ua": "",
-    "ref": "",
-    "origin": "",
-    "motor": "eplayer"
   },
   {
     "nombre": "TELEFE",
@@ -238,27 +207,16 @@
     "origin": "",
     "motor": "mplayer"
   },
-  {
-    "nombre": "Span Premium",
-    "url": "https://val01.ride.com.ar/tvmia/d07/playlist.m3u8",
-    "categoria": "Cine",
-    "subcategoria": "Peliculas",
-    "logo": "",
-    "ua": "",
-    "ref": "",
-    "origin": "",
-    "motor": "eplayer"
-  },
-  {
+   {
     "nombre": "TyC Sport",
-    "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
+    "url": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
     "categoria": "Deportes",
-    "subcategoria": "Fútbol",
+    "subcategoria": "Futbol",
     "logo": "",
     "ua": "",
-    "ref": "",
-    "origin": "",
-    "motor": "mplayer"
+    "ref": "https://vodgc.net",
+    "origin": "https://vodgc.net",
+    "motor": "eplayer"
   },
   {
     "nombre": "TyC Sport (Opcion2)",
@@ -270,6 +228,17 @@
     "ref": "",
     "origin": "",
     "motor": "mplayer"
+  },
+   {
+    "nombre": "TyC Sports FAN",
+    "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+    "categoria": "Deportes",
+    "subcategoria": "Futbol",
+    "logo": "",
+    "ua": "",
+    "ref": "https://vodgc.net",
+    "origin": "https://vodgc.net",
+    "motor": "eplayer"
   },
   {
     "nombre": "DirecTV Sport",
