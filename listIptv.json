@@ -220,14 +220,14 @@
   },
   {
     "nombre": "TyC Sport (Opcion2)",
-    "url": "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8",
+    "url": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index_tyc24_1080.m3u8",
     "categoria": "Deportes",
     "subcategoria": "Fútbol",
     "logo": "",
     "ua": "",
-    "ref": "",
-    "origin": "",
-    "motor": "mplayer"
+    "ref": "https://vodgc.net",
+    "origin": "https://vodgc.net",
+    "motor": "eplayer"
   },
    {
     "nombre": "TyC Sports FAN",
@@ -279,11 +279,11 @@
   "categoria": "Cine",
   "subcategoria": "Peliculas",
   "logo": "",
-  "ua": "",
+  "ua": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36",
   "ref": "",
   "origin": "",
   "motor": "eplayer",
-  "drmType": "",
+  "drmType": "clearkey",
   "drmKey": "010c457d967d5aa2c57c727fdddc5ed3:5e214c17052cc48416e676ff712e19f3"
   },
   {
