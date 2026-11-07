@@ -31,17 +31,17 @@
     "origin": "",
     "motor": "eplayer"
   },{
-    "nombre": "Ver Partido",
-    "url": "https://unlimited1-saopaulo.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8",
-    "categoria": "Argentina",
-    "subcategoria": "Entretenimiento",
+    "nombre": "TyC Sport",
+    "url": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
+    "categoria": "Deportes",
+    "subcategoria": "Futbol",
     "logo": "",
     "ua": "",
     "ref": "https://vodgc.net",
     "origin": "https://vodgc.net",
     "motor": "eplayer"
   },{
-    "nombre": "TyC Sports",
+    "nombre": "TyC Sports FAN",
     "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
     "categoria": "Argentina",
     "subcategoria": "Entretenimiento",
