@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/70?text=GIGARED" group-title="LOCAL",Canal Local Gigared Posadas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ced47361cf2f266e0842894d1c925464:3c12297f2cb08d14f30382bcb9e247bf
+https://cdn02.gigared.com.ar/live/eds/Canal_Local_Gigared_Posadas/sa_live_dash/Canal_Local_Gigared_Posadas.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/400/400/0/0/47462716073248.png" group-title="NACIONALES",América TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=32392e5868873c91ca77a0406b3d32d8:0f74f66dbeda0bb43b32445ea74d2087
+https://cdn02.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png" group-title="NACIONALES",Telefe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=865b35fdb4c119f3ccfd4ee392928aef:b43adf6d88b3befbf7f69a71dc273e46
+https://cdn02.gigared.com.ar/live/eds/Telefe/sa_live_dash/Telefe.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/400/400/0/0/26428256071569.png" group-title="NACIONALES",TV Pública
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f50f7ac8cca2bcb40bf4a895b6378cea:0ca9392a44d0c0ff79abc01c15df8888
+https://cdn02.gigared.com.ar/live/eds/TV_Publica/sa_live_dash/TV_Publica.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" group-title="NACIONALES",Canal 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=949b84fa1101cbbde24d616e3e36fc04:ea87aa98660f4f965e6b9584369c5fa3
+https://cdn03.gigared.com.ar/live/eds/Canal_13/sa_live_dash/Canal_13.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjTjhNV0/canal9-1.png" group-title="NACIONALES",Canal 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaeacad505a66fab4161959099767384:ca66afd7ba0f3ce767b698b5e94c84e3
+https://cdn02.gigared.com.ar/live/eds/Canal_9/sa_live_dash/Canal_9.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x7NshVq/la-nacion-mas.png" group-title="NACIONALES",LN+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffbe99278cd1aea87b3506d1c06defd6:fa8d96b8c2d97390ab329241a4e651ae
+https://cdn02.gigared.com.ar/live/eds/LNmas/sa_live_dash/LNmas.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/400/400/0/0/8952752307709.png" group-title="NACIONALES",C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b47d87494bd17dd7acf86ebb6c3a32:5df76e3d86d8d88799c52eae263d08b0
+https://cdn03.gigared.com.ar/live/eds/C5N/sa_live_dash/C5N.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/400/400/0/0/90907313073986.png" group-title="NACIONALES",Crónica TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2932730b9b35ad5ded0e4d96af122676:57f01dd4f21f8786352399c80d36caf8
+https://cdn02.gigared.com.ar/live/eds/CronicaTV/sa_live_dash/CronicaTV.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/400/400/0/0/34056872073.png" group-title="NACIONALES",Canal 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9a29d60110b731c5f3a141084379a40:8dcb1a09a6007fe72d621a09017276ba
+https://cdn02.gigared.com.ar/live/eds/Canal26/sa_live_dash/Canal26.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/400/400/0/0/2944696007343.png" group-title="NACIONALES",A24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c43779fa115f80c118c29665cc78e4ba:4303ea7157eb2e6f6ce980bb87183825
+https://cdn02.gigared.com.ar/live/eds/A24/sa_live_dash/A24.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydXDbzyZ/somos-tucuman.png" group-title="NACIONALES",Canal 12 Misiones
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed6e9faec04aa78f261171d1ace48957:2995fa69fa1158e82547d5d5a22b4e98
+https://cdn02.gigared.com.ar/live/eds/Canal_12_Misiones/sa_live_dash/Canal_12_Misiones.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/400/400/0/0/439650900762.png" group-title="NACIONALES",CNN Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=720688ae8c6fbbcaed67cbb36da828b6:1efa379726cf781346ad761e85dd7dc3
+https://cdn03.gigared.com.ar/live/eds/CNN_Espanol/sa_live_dash/CNN_Espanol.mpd
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/-/-/0/0/57964260077673.png" group-title="NACIONALES",DNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdb1b2e8016a1cea9fc10952cd92a117:86e36ab9a083bb08d467f3cf07e7172e
+https://cdn02.gigared.com.ar/live/eds/DNews/sa_live_dash/DNews.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/400/400/0/0/13868550072195.png" group-title="DEPORTES",DeporTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f8bcea8ec9fdd5e6927e46ce856824b:3cf09d0c9ebeab2edfe600887e61b368
+https://cdn02.gigared.com.ar/live/eds/DeporTV/sa_live_dash/DeporTV.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tK20mxz/tycsports.png" group-title="DEPORTES",TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cac7b52cb14661fe3db0449020791d97:0c2780acce4ef9d7334ef25be445ceb4
+https://cdn03.gigared.com.ar/live/eds/TyC_Sports/sa_live_dash/TyC_Sports.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="DEPORTES",ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
+https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png" group-title="DEPORTES",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
+https://cdn03.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="DEPORTES",ESPN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad0c72e30648501377425a62a2bf095c:2cfbc73f423203a9fc8a1d983ec4e8bb
+https://cdn02.gigared.com.ar/live/eds/ESPN3/sa_live_dash/ESPN3.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJK6xQ0/espn-4B.png" group-title="DEPORTES",ESPN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecafef3b8979c737d05ea191a02b7617:f46cd12052b0da221a3a178e2bde0162
+https://cdn03.gigared.com.ar/live/eds/ESPN4/sa_live_dash/ESPN4.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/400/400/0/0/1455190607979.png" group-title="DEPORTES",Fox Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c0016fff15fcc3cc5d103f821189100:94d789ac388ccbbfbd2cf91d5b7db028
+https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/400/400/0/0/61150555072785.png" group-title="DEPORTES",Fox Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2e448d00073c0a66e02caa20a2fe135:70e9e4adfb2f0b5ac127654c1a56d238
+https://cdn03.gigared.com.ar/live/eds/Fox_Sports_2/sa_live_dash/Fox_Sports_2.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/400/400/0/0/42712843072366.png" group-title="DEPORTES",Fox Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2f0d2f5e823bf3bd1113ed83b244c57:addd4c11afb303beb21f95f79a935561
+https://cdn02.gigared.com.ar/live/eds/Fox_Sports_3/sa_live_dash/Fox_Sports_3.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1481/CH_LOGO/800/542/0/0/3411412507358.png" group-title="DEPORTES",El Garage
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c44389e1e90fb4d80e0a0d8090f8da1f:7bdf6460869276e70bd3eae576be2286
+https://cdn02.gigared.com.ar/live/eds/El_Garage/sa_live_dash/El_Garage.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/262/CH_LOGO/400/400/0/0/2118831607492.png" group-title="DEPORTES",Discovery Turbo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b1aff18cff06f311d2f53145c0a748:7556d7b06fa5f94c7501c8956a764931
+https://cdn02.gigared.com.ar/live/eds/Discovery_Turbo/sa_live_dash/Discovery_Turbo.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/400/400/0/0/46888977071492.png" group-title="INFANTILES",Paka Paka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aa7687e39e7e7e2e3d64d87a2fa1920:523cc84985fadae95289dd88838133c9
+https://cdn03.gigared.com.ar/live/eds/PakaPaka/sa_live_dash/PakaPaka.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/50/CH_LOGO/400/400/0/0/77798092074367.png" group-title="INFANTILES",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=629f78368829802ade506b8f03e2d18b:6824ea53d6fd70d146b9e31a57cf3a20
+https://cdn03.gigared.com.ar/live/eds/Disney_Channel/sa_live_dash/Disney_Channel.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/400/400/0/0/4140286707756.png" group-title="INFANTILES",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eabe9f5aee4020c50f52a2bf476ac57:490fc8a1a900893d20631da45412879d
+https://cdn03.gigared.com.ar/live/eds/Disney_Junior/sa_live_dash/Disney_Junior.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/400/400/0/0/70239189071229.png" group-title="INFANTILES",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=611595b6387cdcfb67ce564768fd61aa:dd5fba9ab529822129c09c029b28651c
+https://cdn02.gigared.com.ar/live/eds/Nickelodeon/sa_live_dash/Nickelodeon.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/400/400/0/0/43430600073531.png" group-title="INFANTILES",Discovery Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f92dc6055aefecb8a2abdba9ecf65cb:23a68bb309729298ceb3b5fcd3ff174d
+https://cdn03.gigared.com.ar/live/eds/Discovery_Kids/sa_live_dash/Discovery_Kids.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3983/CH_LOGO/400/400/0/0/96726193078010.png" group-title="INFANTILES",Plim Plim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44292917d1f5519af4598ccfc66b53dd:f90cee2e43e02176113cff8ccf09465e
+https://cdn02.gigared.com.ar/live/eds/Plum_Plum/sa_live_dash/Plum_Plum.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1812/CH_LOGO/400/400/0/0/10249036073271.png" group-title="INFANTILES",Zoo Moo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fe8869466801cac2f84dcc6c3584d76:d6c878a3c04face66707d817ec62d628
+https://cdn03.gigared.com.ar/live/eds/Zoo_Moo/sa_live_dash/Zoo_Moo.mpd
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/400/400/0/0/98997452071605.png" group-title="CINE_Y_SERIES",Cine.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/
