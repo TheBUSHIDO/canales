@@ -1,4 +1,25 @@
 [
+   [
+  {
+    "nombre": "Cinecanal",
+    "url": "https://cdn03.gigared.com.ar/live/eds/Cinecanal/sa_live_dash/Cinecanal.mpd",
+    "categoria": "Cine",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "ref": "",
+    "origin": "",
+    "motor": "eplayer",
+    "drm": {
+      "type": "clearkey",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+      },
+      "clearKeys": {
+        "ed9cb36b2c7ab639bb5b8627b2e980e8": "a0d844faf1c31330165393e43e0d3bd8"
+      }
+    }
+  },
    {
     "nombre": "CineMax",
     "url": "https://streaming.onnethn.com/CINEMAX/playlist.m3u8",
