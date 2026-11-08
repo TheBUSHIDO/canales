@@ -1,5 +1,4 @@
 [
-   [
   {
     "nombre": "Cinecanal",
     "url": "https://cdn03.gigared.com.ar/live/eds/Cinecanal/sa_live_dash/Cinecanal.mpd",
@@ -41,7 +40,8 @@
     "ref": "",
     "origin": "",
     "motor": "eplayer"
-  },{
+  },
+   {
     "nombre": "AMC",
     "url": "https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8",
     "categoria": "Cine",
