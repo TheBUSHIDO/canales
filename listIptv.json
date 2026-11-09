@@ -1,5 +1,95 @@
 [
   {
+    "name": "Cine.ar",
+    "url": "https://cdn02.gigared.com.ar/live/eds/Cine_ar/sa_live_dash/Cine_ar.mpd",
+    "logo": "https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/400/400/0/0/98997452071605.png",
+    "group": "CINE_Y_SERIES",
+    "drm": {
+      "type": "clearkey",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+      },
+      "clearKeys": {
+        "ff87d23b45efc58ff6a7ad0f5fdef566": "0e84fa871d67fede2c5385b54b60b5dc"
+      }
+    }
+  },
+  {
+    "name": "Cinecanal",
+    "url": "https://cdn03.gigared.com.ar/live/eds/Cinecanal/sa_live_dash/Cinecanal.mpd",
+    "logo": "https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/400/400/0/0/53485573073445.png",
+    "group": "CINE_Y_SERIES",
+    "drm": {
+      "type": "clearkey",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+      },
+      "clearKeys": {
+        "ed9cb36b2c7ab639bb5b8627b2e980e8": "a0d844faf1c31330165393e43e0d3bd8"
+      }
+    }
+  },
+  {
+    "name": "TNT",
+    "url": "https://cdn03.gigared.com.ar/live/eds/TNT/sa_live_dash/TNT.mpd",
+    "logo": "https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/400/400/0/0/15119500074230.png",
+    "group": "CINE_Y_SERIES",
+    "drm": {
+      "type": "clearkey",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+      },
+      "clearKeys": {
+        "9d9e8eb8d97c4ff0dbfb02c3c417ae48": "a426cb9e3ff4cac8b2e153ef54e69072"
+      }
+    }
+  },
+  {
+    "name": "FX",
+    "url": "https://cdn03.gigared.com.ar/live/eds/FX/sa_live_dash/FX.mpd",
+    "logo": "https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/400/400/0/0/35224800072040.png",
+    "group": "CINE_Y_SERIES",
+    "drm": {
+      "type": "clearkey",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+      },
+      "clearKeys": {
+        "b060d6864d9b870b3a5f43c10370977c": "7a9104e80a2bd14429ad4c877a9926b5"
+      }
+    }
+  },
+  {
+    "name": "Star Channel",
+    "url": "https://cdn03.gigared.com.ar/live/eds/Star_Channel/sa_live_dash/Star_Channel.mpd",
+    "logo": "https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/400/400/0/0/6901418607879.png",
+    "group": "CINE_Y_SERIES",
+    "drm": {
+      "type": "clearkey",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+      },
+      "clearKeys": {
+        "ba8e3594a2280a1f0b749d66dccfab99": "efa66c01f0e96775398994f1754be46b"
+      }
+    }
+  },
+  {
+    "name": "Sony Channel",
+    "url": "https://cdn02.gigared.com.ar/live/eds/Sony_Channel/sa_live_dash/Sony_Channel.mpd",
+    "logo": "https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/400/400/0/0/86995730071579.png",
+    "group": "CINE_Y_SERIES",
+    "drm": {
+      "type": "clearkey",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+      },
+      "clearKeys": {
+        "a2e6c6842391fd4d9dfe3c047e286eb4": "7d563478e5669d44cec9a6215052fec3"
+      }
+    }
+  },
+  {
     "nombre": "Cinecanal",
     "url": "https://cdn03.gigared.com.ar/live/eds/Cinecanal/sa_live_dash/Cinecanal.mpd",
     "categoria": "Cine",
