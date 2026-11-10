@@ -90,6 +90,60 @@
     }
   },
   {
+    "name": "GOKU TV Oficial",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_oficial.flv",
+    "logo": "",
+    "group": "ANIME",
+    "language": "Español",
+    "type": "flv",
+    "referer": "https://vaughn.live/goku_tv_oficial/"
+  },
+  {
+    "name": "GOKU TV LATAM",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_latam.flv",
+    "logo": "",
+    "group": "ANIME",
+    "language": "No verificado",
+    "type": "web",
+    "referer": "https://vaughn.live/goku_tv_latam/"
+  },
+  {
+    "name": "Series Anime 24/7",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_seriesan342.flv",
+    "logo": "",
+    "group": "ANIME",
+    "language": "No verificado",
+    "type": "web",
+    "referer": "https://vaughn.live/seriesan342/"
+  },
+  {
+    "name": "Los Simpson",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_simpsons.flv",
+    "logo": "",
+    "group": "COMEDIAS",
+    "language": "No verificado",
+    "type": "web",
+    "referer": "https://vaughn.live/mega_simpsons/"
+  },
+  {
+    "name": "Juancine TV",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv",
+    "logo": "",
+    "group": "PELICULAS",
+    "language": "No verificado",
+    "type": "web",
+    "referer": "https://vaughn.live/juancine_tv/"
+  },
+  {
+    "name": "Películas Infantiles",
+    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_kids.flv",
+    "logo": "",
+    "group": "INFANTILES",
+    "language": "No verificado",
+    "type": "web",
+    "referer": "https://vaughn.live/mega_kids/"
+  },
+  {
     "nombre": "Cinecanal",
     "url": "https://cdn03.gigared.com.ar/live/eds/Cinecanal/sa_live_dash/Cinecanal.mpd",
     "categoria": "Cine",
