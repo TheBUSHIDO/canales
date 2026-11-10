@@ -1,7 +1,7 @@
 [
   {
     "name": "Cine.ar",
-    "url": "https://cdn02.gigared.com.ar/live/eds/Cine_ar/sa_live_dash/Cine_ar.mpd",
+    "url": "https://cdn03.gigared.com.ar/live/eds/Cine_ar/sa_live_dash/Cine_ar.mpd",
     "logo": "https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/400/400/0/0/98997452071605.png",
     "group": "CINE_Y_SERIES",
     "drm": {
