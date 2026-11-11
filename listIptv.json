@@ -103,7 +103,6 @@
     "logo": "",
     "group": "ANIME",
     "language": "Español",
-    "type": "flv",
     "referer": "https://vaughn.live/goku_tv_oficial/"
   },
   {
@@ -112,7 +111,6 @@
     "logo": "",
     "group": "ANIME",
     "language": "No verificado",
-    "type": "web",
     "referer": "https://vaughn.live/goku_tv_latam/"
   },
   {
@@ -160,7 +158,7 @@
     "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "ref": "",
     "origin": "",
-    "motor": "eplayer",
+    "motor": "shaka",
     "drmType": "clearkey",
     "drmKey": "ed9cb36b2c7ab639bb5b8627b2e980e8:a0d844faf1c31330165393e43e0d3bd8"
   },
