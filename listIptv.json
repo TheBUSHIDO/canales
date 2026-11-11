@@ -1,4 +1,12 @@
 [
+  {"name":"Mega Extremo",
+    "url":"https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_extremo.flv",
+    "group":"PELICULAS"
+  },
+  {"name":"XS Movies",
+    "url":"https://stream-cdn-iad3.vaughnsoft.net/play/live_xsmovies.flv",
+    "group":"PELICULAS"
+  },
   {
     "name": "Cine.ar",
     "url": "https://cdn03.gigared.com.ar/live/eds/Cine_ar/sa_live_dash/Cine_ar.mpd",
