@@ -1,4 +1,19 @@
 [
+  {
+    "nombre": "America Test",
+    "url": "https://edge-mix03-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk0Njk4MzI0Iiwic2lwIjoiMjAwLjEwNy42OS41NiIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9XYXJuZXJIRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU4ZmQxNzBlM2ZiM2FlNTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzMjgiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDIxMCw4Niw4OF19.e0a4QTwCNHG6UwVDllSqAng9UV_2zJxF_N46jNIpGyUiraP-tAF8_kCrl_FbSYfmRIOHM7I-UkdcG5FSCbkDhw==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+    "categoria": "Cine",
+    "subcategoria": "Peliculas",
+    "logo": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "ref": "https://portal.app.flow.com.ar",
+    "origin": "https://portal.app.flow.com.ar",
+    "motor": "eplayer"
+  },
+  {"name":"XS Movies",
+    "url":"https://stream-cdn-iad3.vaughnsoft.net/play/live_xsmovies.flv",
+    "group":"PELICULAS"
+  },
   {"name":"Mega Extremo",
     "url":"https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_extremo.flv",
     "group":"PELICULAS"
